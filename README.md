@@ -1,6 +1,6 @@
 # Knack Coding Challenge - Take Home Exercise
 
-Read the problem statement here (add link to PROBLEM_STATEMENT.md)
+Read the problem statement [here](./PROBLEM_STATEMENT.md)
 
 In this implementation the goal was finding in the schema receive on the JSON file, for the live version, and look inside the Objects array to remove any duplicated Object and inside every Object look for duplicated Fields. The same logic was applied for the Scenes and Views for every live Version.
 
